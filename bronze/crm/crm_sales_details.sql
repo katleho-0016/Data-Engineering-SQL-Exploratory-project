@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS bronze.sales_details(
+CREATE TABLE IF NOT EXISTS crm_sales_details(
     sls_ord_num TEXT,
     sls_prd_key TEXT,
     sls_cust_id INTEGER,

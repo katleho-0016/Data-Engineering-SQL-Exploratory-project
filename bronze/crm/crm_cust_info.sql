@@ -1,6 +1,6 @@
 -- Active: 1768301399155@@127.0.0.1@3306
 
-CREATE TABLE IF NOT EXISTS bronze.crm_cust_info(
+CREATE TABLE IF NOT EXISTS crm_cust_info(
     cst_id int,
     cst_key text,
     cst_firstname text,

@@ -1,0 +1,7 @@
+-- Active: 1768301399155@@127.0.0.1@3306
+
+CREATE TABLE IF NOT EXISTS erp_cust_az12(
+    CID TEXT,
+    BDATE DATE,
+    GEN TEXT
+)

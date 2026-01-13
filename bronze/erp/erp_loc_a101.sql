@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS erp_loc_a101(
+    CID TEXT,
+    CNTRY TEXT
+)

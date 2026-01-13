@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS bronze.crm_prd_info(
+CREATE TABLE IF NOT EXISTS crm_prd_info(
     prd_id INTEGER,
     prd_key TEXT,
     prd_nm TEXT,
